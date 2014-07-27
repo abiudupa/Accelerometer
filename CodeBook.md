@@ -14,5 +14,5 @@ STEPS :
 8. Cleans second column of *activity* by making all names into lower cases. 
 9. Combines *combineS*, *combineY* and *combineX* into *final* with 66 columns. 
 10. Writes *final* out to "combine.txt" file.  
-11. Generates tidy data set with the average of each measurement for each activity and each subject of30 unique subjects and 6 unique activities and writes it into tidy.txt
+11. Generates tidy data set with the average of each measurement for each activity and each subject of 30 unique subjects and 6 unique activities which is a total of 180 rows and writes it into tidy.txt
  
